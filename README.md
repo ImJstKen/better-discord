@@ -1,3 +1,3 @@
 # Installation
 
-npm install better-discord
+npm install better-discord-bot
