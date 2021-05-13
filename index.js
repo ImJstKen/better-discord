@@ -17,3 +17,9 @@ function message(callback) {
 function login(token) {
     client.login(token);
 }
+
+module.exports = {
+    ready,
+    message,
+    login
+}
